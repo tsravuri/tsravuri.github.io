@@ -286,6 +286,32 @@ sixth {
     width: 450px;
 
   }
+
+  .cent4 h3 {
+    font-weight: 200;
+    font-size: 12px;
+    padding: 0 20px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .cent4 h4 {
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0 20px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .cent4 p {
+    font-weight: 400;
+    font-size: 12px;
+    padding: 0 20px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    text-align: center;
+    width: 200px;
+  }
 }
 
 .center-content {
